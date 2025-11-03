@@ -1,5 +1,6 @@
 package com.HiGreen.backend.config
 
+import com.HiGreen.backend.security.JwtUtil
 import jakarta.servlet.FilterChain
 import jakarta.servlet.http.HttpServletRequest
 import jakarta.servlet.http.HttpServletResponse
