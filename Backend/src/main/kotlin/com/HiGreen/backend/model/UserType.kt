@@ -11,4 +11,9 @@ enum class UserType {
      */
     CITIZEN,
 
+    /**
+     * System staff user
+     */
+    STAFF
+
 }
